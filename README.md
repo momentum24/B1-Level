@@ -12,5 +12,5 @@ DIO Peripheral
 
 #### Task 
 ~~~
-write the dio driver for both mcu Then upload them on github
+write the dio driver for both mcu Then upload them on github repo
 ~~~
