@@ -24,7 +24,6 @@
 ## Week_Two
 
 ##### Content
-<p>&nbsp;</p>
 
 ~~~
 - ADC
