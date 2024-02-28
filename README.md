@@ -190,4 +190,4 @@ Timer Driver ( ICU and WDT )
 
 <p>&nbsp;</p>
 
-* [Quiz UART](https://forms.gle/gzcsSTRUn4TPwssa9)
+* [UART Quiz](https://forms.gle/gzcsSTRUn4TPwssa9)
