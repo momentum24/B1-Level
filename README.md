@@ -77,7 +77,7 @@ ADC Chain Cenversion
 
 <p>&nbsp;</p>
 
-* [ADC Task](https://drive.google.com/drive/folders/1FLzzpYc309feoBxOGneh_e-7gz4c3hVA)
+* [ADC Task](https://drive.google.com/file/d/1JiDKrtwz9HsYGSVjhC5Y7yOreWsizyl2/view?usp=drive_link)
 
 
 <p>&nbsp;</p>
