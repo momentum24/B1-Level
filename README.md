@@ -5,7 +5,7 @@
 ##### Content
 
 ~~~
-- ATmega32 & PIC Data Sheet 
+- ATmega32 Data Sheet 
 - DIO Peripheral
 - the concept & driver
 ~~~
@@ -21,8 +21,66 @@
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-
 ## Week_Two
+
+##### Content
+<p>&nbsp;</p>
+~~~
+- ADC
+~~~
+
+<p>&nbsp;</p>
+
+* [ADC p1](https://youtu.be/W2ZqFytOuxM?si=QkE7MoWyMxDZQkFN)
+~~~
+- Signals Types
+- Digitalization Process
+- Main Concepts : Resolution ,  Levels , Step , Reference Voltage
+- R2R DAC
+~~~
+<p>&nbsp;</p>
+
+* [ADC p2](https://youtu.be/kRSkwb0okSM?si=w61cA3AlSD0Himz1)
+~~~
+ADC Types
+Ramp ADC
+SAR ADC
+Flash ADC
+Sigma-Delta ADC
+ADC Notes
+~~~
+<p>&nbsp;</p>
+
+* [ADC p3](https://youtu.be/LW6TH_b1K2Y?si=zcewNC1NZ5N7b1yA)
+~~~
+ADC channel modes (single ended & differential)
+ADC modes (single conversion & free running)
+ADC at ATMega32 
+~~~
+<p>&nbsp;</p>
+
+* [ADC p4](https://youtu.be/1p4nSJkOI_g?si=9Fcq5vz9lkR8xbit)
+~~~
+Analog Sensors
+LM35
+LDR
+ADC Driver
+SW Design Concepts
+ADC Synchronous Function
+ADC ASynchronous Function
+ADC Chain Cenversion
+~~~
+
+<p>&nbsp;</p>
+
+* [ADC Task](https://drive.google.com/drive/folders/1FLzzpYc309feoBxOGneh_e-7gz4c3hVA)
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+## Week_Three
 
 ##### Content
 
@@ -87,7 +145,7 @@ Timer Driver ( ICU and WDT )
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-## Week_Three
+## Week_Four
 
 ##### Content
 
@@ -131,9 +189,5 @@ Timer Driver ( ICU and WDT )
 ~~~
 
 
-#### Task 
-~~~
 
-~~~
-
-[Quiz UART](https://forms.gle/gzcsSTRUn4TPwssa9)
+* [Quiz UART](https://forms.gle/gzcsSTRUn4TPwssa9)
