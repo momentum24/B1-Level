@@ -3,23 +3,28 @@
 ## Week_One
 
 ##### Content
-
 ~~~
 - ATmega32 Data Sheet 
-- DIO Peripheral
-- the concept & driver
+- DIO Peripheral (the concept & driver)
 ~~~
+
+- [p1](https://youtu.be/qESzAHwasY4?si=hK3dFIUp2OIswfNz)
+
+- [p2](https://youtu.be/0uGAfryKTAk?si=THjIemBjTH8go_IO)
+
+- [p3](https://youtu.be/zWkr8-Pf4bk?si=vwdT7DjJWrf3D_PH)
 
 #### Task 
 ~~~
-- write the dio driver for both mcu Then upload them on github repo
-- control a led with switch
+- write the dio driver for ATmega32 MCU Then upload it on github repo
+- control a led with switch record a vedio then upload it
 ~~~
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-* NOTE => This is not the usual arrangement for the Course ,It is related to The level of members in the committee
+
+- NOTE => This is not the usual arrangement for the Course ,It is related to The level of members in the committee
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
